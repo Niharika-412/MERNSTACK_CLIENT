@@ -10,6 +10,7 @@ function Sidebar() {
                 <h2>Home</h2>
                 <p>Welcome to your academic portal! Use the sidebar .</p>
                 <p>Here, you can access recent announcements and check your notifications.</p>
+                <p></p>
             </div>
         );
     };
