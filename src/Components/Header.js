@@ -35,7 +35,7 @@ function Header() {
           Student Portal <span className="erp">- ERP</span>
         </h1>
         <div className="profile-section">
-          <span className="student-id">2300032939</span>
+          <span className="student-id">2300033494</span>
           <img src={profileImage} alt="Profile" className="profile-image" />
         </div>
       </header>

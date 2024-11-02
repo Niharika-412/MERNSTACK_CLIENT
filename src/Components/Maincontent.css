@@ -22,7 +22,7 @@ body, html {
     box-sizing: border-box;
     position: fixed; /* Fixes the sidebar to the left edge */
     left: 0px; /* Align to the very left of the viewport */
-    top: 124px;
+    top: 130px;
   }
   
   /* Adjust the main contnt area to account for the fixed sidebar */
